@@ -1,2 +1,3 @@
-# Pearl-Bridge-Partners-Challange
-Recruitment challange to the Pearl Bridge Partners company
+# Pearl-Bridge-Partners-Challenge
+
+Recruitment challenge to the Pearl Bridge Partners company.
